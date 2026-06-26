@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap — update the domain if it changes
+Sitemap: https://www.buddiezholidays.com/sitemap.xml
